@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=yearValues\ dataValues
+comment0.target=Trendline(java.util.List,\ java.util.List)
+comment1.params=
+comment1.target=void\ calcSumX()
+comment2.params=
+comment2.target=void\ calcSumY()
+comment3.params=
+comment3.target=void\ calcSumXY()
+comment4.params=
+comment4.target=void\ calcSumXSquared()
+comment5.params=
+comment5.target=void\ calcIntercept()
+comment6.params=
+comment6.target=void\ calcSlope()
+numComments=7
